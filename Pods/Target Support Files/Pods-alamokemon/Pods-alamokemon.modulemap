@@ -1,0 +1,6 @@
+framework module Pods_alamokemon {
+  umbrella header "Pods-alamokemon-umbrella.h"
+
+  export *
+  module * { export * }
+}
