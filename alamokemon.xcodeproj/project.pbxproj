@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9BF4CFF4587A934D878911D6 /* Pods_alamokemon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 097335DDEC951B388AF9DACD /* Pods_alamokemon.framework */; };
+		A8044D4A1CCC4D16007B2881 /* bunk.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8044D491CCC4D16007B2881 /* bunk.swift */; };
 		A88743E41CCAC7FF00E9D7D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88743E31CCAC7FF00E9D7D6 /* AppDelegate.swift */; };
 		A88743E61CCAC7FF00E9D7D6 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88743E51CCAC7FF00E9D7D6 /* MainViewController.swift */; };
 		A88743E91CCAC7FF00E9D7D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A88743E71CCAC7FF00E9D7D6 /* Main.storyboard */; };
@@ -55,6 +56,7 @@
 /* Begin PBXFileReference section */
 		097335DDEC951B388AF9DACD /* Pods_alamokemon.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_alamokemon.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		173B3EE52BC042BA2CE924ED /* Pods-alamokemon.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-alamokemon.release.xcconfig"; path = "Pods/Target Support Files/Pods-alamokemon/Pods-alamokemon.release.xcconfig"; sourceTree = "<group>"; };
+		A8044D491CCC4D16007B2881 /* bunk.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = bunk.swift; path = ../bunk.swift; sourceTree = "<group>"; };
 		A88743E01CCAC7FE00E9D7D6 /* alamokemon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = alamokemon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A88743E31CCAC7FF00E9D7D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A88743E51CCAC7FF00E9D7D6 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 		A88743E21CCAC7FF00E9D7D6 /* alamokemon */ = {
 			isa = PBXGroup;
 			children = (
+				A8044D491CCC4D16007B2881 /* bunk.swift */,
 				A88743E31CCAC7FF00E9D7D6 /* AppDelegate.swift */,
 				A88743EA1CCAC7FF00E9D7D6 /* Assets.xcassets */,
 				A88744231CCAC96700E9D7D6 /* Extensions */,
@@ -435,6 +438,7 @@
 				A8999FAA1CCB20E300149DC7 /* DetailViewController.swift in Sources */,
 				A88744201CCAC8FD00E9D7D6 /* AnimationsLibrary.swift in Sources */,
 				A8999F9F1CCACAD500149DC7 /* colors.swift in Sources */,
+				A8044D4A1CCC4D16007B2881 /* bunk.swift in Sources */,
 				A88743E61CCAC7FF00E9D7D6 /* MainViewController.swift in Sources */,
 				A887441E1CCAC8FD00E9D7D6 /* BetterViewController.swift in Sources */,
 				A8999F9D1CCAC9E800149DC7 /* Main_Model.swift in Sources */,
